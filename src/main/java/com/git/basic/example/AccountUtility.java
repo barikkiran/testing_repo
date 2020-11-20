@@ -3,6 +3,10 @@ package com.git.basic.example;
 public class AccountUtility {
 
 	
+	public void test(){
+	
+	}
+	
 	public void checkInput(String name) {
 		
 		if(name.equals("NSE"))
